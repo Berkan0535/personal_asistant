@@ -1,0 +1,12 @@
+.dart_tool/
+.idea/
+.gradle/
+build/
+/.packages
+/.flutter-plugins
+/.flutter-plugins-dependencies
+pubspec.lock
+android/.gradle/
+android/app/*.keystore
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
