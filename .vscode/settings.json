@@ -1,0 +1,6 @@
+{
+  // Increase search depth so the Dart/Flutter extension finds the project root in deep workspaces
+  "dart.projectSearchDepth": 10,
+  // Optional: open the folder as the workspace root
+  "dart.openDevToolsConsole": "auto"
+}
