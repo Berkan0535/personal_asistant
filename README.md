@@ -389,11 +389,9 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICE
 
 ## 📞 İletişim
 
-- **Email**: your.email@example.com
-- **GitHub**: [@yourusername](https://github.com/yourusername)
-- **LinkedIn**: [Your Name](https://linkedin.com/in/yourprofile)
-- **Website**: [yourwebsite.com](https://yourwebsite.com)
-
+- **Email**: berkansucsuz95@gmail.com
+- **GitHub**: [@Berkan0535](https://github.com/Berkan0535)
+- **LinkedIn**: [Berkan Suçsuz](www.linkedin.com/in/berkan-suçsuz-5a820b309)
 ---
 
 ## 🙏 Teşekkürler
